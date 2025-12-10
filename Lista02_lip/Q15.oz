@@ -1,3 +1,4 @@
+% eu sei la se isso ta certo
 local QuickSort Particiona in
     fun {QuickSort L}
         proc {Ordena L ?S ?T}  
